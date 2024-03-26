@@ -128,7 +128,7 @@ function Footer() {
                     className=" text-base font-medium text-gray-200 hover:text-gray-300"
                     to="/"
                   >
-                    Narender Singh
+                    Ankit
                   </Link>
                 </li>
               </ul>
